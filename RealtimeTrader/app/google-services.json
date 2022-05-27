@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91095868059",
+    "project_id": "crypto-trade-22416",
+    "storage_bucket": "crypto-trade-22416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91095868059:android:cde4e1d0e131226dcf9c3e",
+        "android_client_info": {
+          "package_name": "com.project.realtimetrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91095868059-2dh4ojbucn5ltviur5u0nqmtinut7jjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWSyblIrkTdJY7MyoE1Q8nUBX_Y6KDsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91095868059-2dh4ojbucn5ltviur5u0nqmtinut7jjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
